@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Garage</label>
+		<id>96</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>Garage.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Garage.jcp</path>
+		</project>
+	</projects>
+</workspace>
